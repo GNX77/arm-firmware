@@ -1,4 +1,4 @@
-Glossary
+ARM Firmware Glossary
 ========
 
 This glossary provides definitions for terms and abbreviations used in the TF-A
