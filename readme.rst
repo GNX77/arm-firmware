@@ -1,4 +1,4 @@
-Trusted Firmware-A
+ARM Firmware-A
 ==================
 
 Trusted Firmware-A (TF-A) is a reference implementation of secure world software
